@@ -60,12 +60,13 @@ body {
   .task {
     display: flex;
     justify-content: space-between;
-    padding: 15px;
-#this is a comment
+    padding: 15px;  
     border: 1px solid #ddd;
     border-radius: 4px;
     margin-bottom: 10px;
   }
+
+  /*this is a comment*/
   
   .task.completed {
     text-decoration: line-through;
